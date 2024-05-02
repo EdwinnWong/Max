@@ -1,37 +1,9 @@
-h1{
-  
-  text-align: center;
-  
-color:red;
-  
-background-color:green;
-  
-
-
-
-
-
-
-}
-  
-p{
-
-
-  
-}
-
-body{
-
-background: linear-gradient(0, #DC143C, #7FFF00)
-  
-}
-
 h1 {
   color: #fe218b;
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 60px;
-  background: linear-gradient(90, #fed700, #21b0fe);
+  background: linear-gradient(90, #DC143C, #7FFF00);
   
   <!--text-shadow: 1px 1px 2px black, 0 0 25px #f6511d, 0 0 5px #ffb400; -->
 }
