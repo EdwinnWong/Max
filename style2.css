@@ -1,9 +1,12 @@
 h1{
+  
 color:red;
-  background-color:green;
+  
+background-color:green;
+  
 text-align: center
 
-  background: linear-gradient(0,#DC143C,#7FFF00)
+background: linear-gradient(0,#DC143C,#7FFF00)
 
   
 
