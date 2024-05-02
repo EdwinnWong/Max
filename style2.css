@@ -6,7 +6,7 @@ background-color:green;
   
 text-align: center
 
-background: linear-gradient(0, #DC143C, #7FFF00)
+
 
 h1{text-align: center;}
 
@@ -14,6 +14,8 @@ h2{text-align: center;}
 
 p{text-align: center;}
 
+}
+  
 p{
 
 
@@ -22,7 +24,7 @@ p{
 
 body{
 
-
+background: linear-gradient(0, #DC143C, #7FFF00)
   
 }
 
@@ -30,4 +32,4 @@ body{
 
 
 
-}
+
