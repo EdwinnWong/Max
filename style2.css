@@ -3,7 +3,7 @@ h1 {
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 80px;
-
+ background: linear-gradient(90, #fed700, #21b0fe);
 }
 
 h4 {
@@ -11,7 +11,7 @@ h4 {
   text-align: center;
   font-family: "Garamond", serif;
   font-size: 30px;
-  
+   background: linear-gradient(90, #fed700, #21b0fe);
 }
 
 p {
@@ -19,12 +19,12 @@ p {
   text-align: center;
   font-family: "Courier New", Times, serif;
   font-size: 12px;
-
+ background: linear-gradient(90, #fed700, #21b0fe);
 }
 
 body {
    text-align: center;
-  background: linear-gradient(90, #1E90FF, #FF1493;
+   background: linear-gradient(90, #fed700, #21b0fe);
 }
 
 
